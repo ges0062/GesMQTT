@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|c:\\users\\guo\\documents\\mqttpro\\windowsformsapp1\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|solutionrelative:frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|c:\\users\\guo\\documents\\mqttpro\\windowsformsapp1\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|solutionrelative:frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|c:\\users\\guo\\documents\\mqttpro\\windowsformsapp1\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|solutionrelative:frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|c:\\users\\guo\\documents\\mqttpro\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE71DA8-B59B-42B5-9DB4-3AA7338C39B8}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmClient.cs",
+              "DocumentMoniker": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmClient.cs",
+              "RelativeDocumentMoniker": "FrmClient.cs",
+              "ToolTip": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmClient.cs",
+              "RelativeToolTip": "FrmClient.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAawB4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:50:24.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmServer.cs",
+              "DocumentMoniker": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmServer.cs",
+              "RelativeDocumentMoniker": "FrmServer.cs",
+              "ToolTip": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmServer.cs",
+              "RelativeToolTip": "FrmServer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwOYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:49:28.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmClient.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmClient.cs",
+              "RelativeDocumentMoniker": "FrmClient.cs",
+              "ToolTip": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\FrmClient.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FrmClient.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:51:15.438Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GUO\\Documents\\MQTTPro\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:03:49.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
